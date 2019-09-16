@@ -4,4 +4,4 @@
 * npm start - frontend
 * node server - backend
 
-.env файл с конфиденциальной информацией отсутствует
+.env файл с токеном отсутствует
